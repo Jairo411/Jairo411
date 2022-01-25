@@ -19,5 +19,3 @@ graphics API (OpenGL, Vulkan).<h3>
 ## Links 
 [![ScreenshotOfLinkedInLogo](LinkedInLogo.png)](https://www.linkedin.com/in/jairo-morelli-b1018514b)
 
-
-  
