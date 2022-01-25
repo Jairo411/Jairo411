@@ -14,7 +14,7 @@ graphics API (OpenGL, Vulkan).<h3>
 ---
 ## Languages I'm proficient in ... 
 
-![ScreenshotOfCLogo](CLogoE.png)![ScreenshotOFCPLUSPLUSLOGO](C++E.png)![ScreenShotOfJavaLogo](Javalogo1E.png)
+![ScreenshotOfCLogo](CLogo.png)![ScreenshotOFCPLUSPLUSLOGO](C++Logo.png)![ScreenShotOfJavaLogo](JavaLogo.png)
 
 ## Links 
 [![ScreenshotOfLinkedInLogo](LinkedInLogo.png)](https://www.linkedin.com/in/jairo-morelli-b1018514b)
