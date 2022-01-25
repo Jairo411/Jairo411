@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Jairo411
-- 👀 I’m interested in ... game development, computer hardware, game Engines, how compilers work ,C/C++ and Java. 
-- 🌱 I’m currently learning ... how to build my own GameEngine, while simultaneous improving my knowledge about the C/C++ language.
-- 💞️ I’m looking to collaborate on ... Currently prefer working on my own since, building project is the best way to learn.
-- 📫 How to reach me ... Emails jalbmorelli@hotmail.com, jairoAlbertoMorelli@gmail.com
+# Jairo Morelli (Game Engine Programmer / General Programmer)
+## Im Interested In :computer: ... 
+<h3>game development, computer hardware, game engine development, how compilers work. 3D 
+graphics API (OpenGL, Vulkan).<h3>
 
-## :computer:
-<!---
-Jairo411/Jairo411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Currently Learning :memo: ... 
+<h3> how to build my own GameEngine, while simultaneous improving my knowledge about the C/C++ language. <h3>
+
+## How to reach me :mailbox_with_no_mail: ... 
+## Emails (personal) jalbmorelli@hotmail.com (work) jairoAlbertoMorelli@gmail.com 
+---
+## Languages I'm proficient in ... 
+
+![ScreenshotOfCLogo](CLogoE.png)![ScreenshotOFCPLUSPLUSLOGO](C++E.png)![ScreenShotOfJavaLogo](Java-logo-1E.png)
+
+## Links 
+[![ScreenshotOfLinkedInLogo](LinkedInLogo.png)](https://www.linkedin.com/in/jairo-morelli-b1018514b)
