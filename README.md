@@ -1,25 +1,37 @@
-# Jairo Morelli (Game Engine Programmer / Generalist Programmer)
-## Im Interested In :computer: ... 
-<h3>game development, computer hardware, game engine development, how compilers work, 3D 
-graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
+# Jairo Morelli (Generalist Programmer / Android Developer)
+## What i'm Interested In :computer: ... 
 
----
+<h3>Computer hardware, game engine development, how compilers work, 3D 
+graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
+</br>
+
+
 ## Currently Learning :memo: ... 
 <h3> Currently learning Android phone development, as well as Kotlin.<h3>
+</br>
 
----
 ## How to reach me :mailbox_with_no_mail: ... 
-## Emails : (personal) jalbmorelli@hotmail.com 
-## (work) jairoalbertomorelli@gmail.com 
----
-## Languages I'm currently learning 
-  
----
-  
-## Languages I'm proficient in ... 
+<h1> Emails:
+<h2> jalbmorelli@hotmail.com (personal).</h2>
+<h2>jairoalbertomorelli@gmail.com (work). </h2> 
+</br>
 
-![ScreenshotOfCLogo](CLogo.png)![ScreenshotOFCPLUSPLUSLOGO](C++Logo.png)![ScreenShotOfJavaLogo](JavaLogo.png)
+# Languages I'm currently learning 
+ <br>
 
-## Links 
+  ![ScreenshotOfKotlinLogo](KotlinIcon.png)
+
+</br>
+
+
+# Languages I'm proficient in 
+
+<br> 
+ 
+ ![ScreenshotOfCLogo](CLogo.png)![ScreenshotOFCPLUSPLUSLOGO](C++Logo.png)![ScreenShotOfJavaLogo](JavaLogo.png)
+
+</br>
+
+# LinkedIn 
 [![ScreenshotOfLinkedInLogo](LinkedInLogo.png)](https://www.linkedin.com/in/jairo-morelli-b1018514b)
 
