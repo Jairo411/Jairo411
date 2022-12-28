@@ -1,6 +1,6 @@
 # Jairo Morelli (Game Engine Programmer / Generalist Programmer)
 ## Im Interested In :computer: ... 
-<h3>game development, computer hardware, game engine development, how compilers work, and 3D 
+<h3>game development, computer hardware, game engine development, how compilers work, 3D 
 graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 
 ---
