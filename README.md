@@ -8,10 +8,9 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 
 ## Currently Learning :memo: ... 
 <h3> Currently learning Android phone development, as well as Kotlin.<h3>
-</br>
 
 ## How to reach me :mailbox_with_no_mail: ... 
-<h1> Emails:
+<h2> Emails:
 <h2>  <a href="jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h2>
 <h2><a href="jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h2> 
 </br>
