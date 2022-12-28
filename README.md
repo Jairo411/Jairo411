@@ -10,7 +10,7 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 ---
 ## How to reach me :mailbox_with_no_mail: ... 
 ## Emails : (personal) jalbmorelli@hotmail.com 
-## (work) jairoAlbertoMorelli@gmail.com 
+## (work) jairoalbertomorelli@gmail.com 
 ---
 ## Languages I'm proficient in ... 
 
