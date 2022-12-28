@@ -12,6 +12,10 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 ## Emails : (personal) jalbmorelli@hotmail.com 
 ## (work) jairoalbertomorelli@gmail.com 
 ---
+## Languages I'm currently learning 
+  
+---
+  
 ## Languages I'm proficient in ... 
 
 ![ScreenshotOfCLogo](CLogo.png)![ScreenshotOFCPLUSPLUSLOGO](C++Logo.png)![ScreenShotOfJavaLogo](JavaLogo.png)
