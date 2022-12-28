@@ -12,8 +12,8 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 
 ## How to reach me :mailbox_with_no_mail: ... 
 <h1> Emails:
-<h2> jalbmorelli@hotmail.com (personal).</h2>
-<h2>jairoalbertomorelli@gmail.com (work). </h2> 
+<h2>  <a href="jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h2>
+<h2><a href="jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h2> 
 </br>
 
 # Languages I'm currently learning 
