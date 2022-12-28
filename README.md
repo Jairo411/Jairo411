@@ -1,8 +1,8 @@
 # Jairo Morelli (Generalist Programmer / Android Developer)
-## What i'm Interested In :computer: ... 
+<h3> What i'm Interested In :computer: ...</h3> 
 
-<h3>Computer hardware, game engine development, how compilers work, 3D 
-graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
+<p>Computer hardware, game engine development, how compilers work, 3D 
+graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 </br>
 
 
