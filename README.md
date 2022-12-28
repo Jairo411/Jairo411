@@ -13,7 +13,6 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.<h3>
 <h2> Emails:
 <h3>  <a href="jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h3>
 <h3><a href="jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h3> 
-</br>
 
 # Languages I'm currently learning 
  <br>
