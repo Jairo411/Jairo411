@@ -21,7 +21,7 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 <h3>  <a href="mailto:jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h3>
 <h3><a href="mailto:jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h3> 
 <h2> Socials </h2> 
-<a href="https://www.instagram.com/morelli_08/"><img src="Instagram_Icon.jpg"></a><a href="https://www.linkedin.com/in/jairo-alberto-morelli-santamaria-b1018514b/"><img src="LinkedIn_Icon.jpg"></a><a href="https://twitter.com/Morelli_08"><img src="Twitter_Icon.jpg"></a>
+<a href="https://www.instagram.com/morelli_08/"><img src="Instagram_Icon.jpg"></a> <a href="https://www.linkedin.com/in/jairo-alberto-morelli-santamaria-b1018514b/"><img src="LinkedIn_Icon.jpg"></a> <a href="https://twitter.com/Morelli_08"><img src="Twitter_Icon.jpg"></a>
 
 
 
