@@ -21,9 +21,6 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 <h3>  <a href="mailto:jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h3>
 <h3><a href="mailto:jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h3> 
 
-# Languages I'm proficient in 
- ![ScreenshotOfCLogo](CLogo.png)![ScreenshotOFCPLUSPLUSLOGO](C++Logo.png)![ScreenShotOfJavaLogo](JavaLogo.png)
-
 # LinkedIn 
 [![ScreenshotOfLinkedInLogo](LinkedInLogo.png)](https://www.linkedin.com/in/jairo-morelli-b1018514b)
 
