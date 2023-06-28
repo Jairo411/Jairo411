@@ -1,26 +1,29 @@
-# Jairo Morelli (Generalist Programmer / Android Developer)
+# Hi I am Jairo Alberto Morelli Santamaria (Generalist Programmer / Android Developer)
+</br> 
+
+<h2>Software Development Projects</h2>
+<ul>
+ <li>place holder(easy)</li>
+ <li>place holder(easy)</li>
+ <li>place holder(medium)</li>
+ <li>place holder(actually a really impressive small project)</li>
+</ul>
+
 <h3> What i'm Interested In :computer: ...</h3> 
 
-<p>Computer hardware, game engine development, how compilers work, 3D 
+<p>Operating systems,Computer hardware, game engine development, how compilers work, 3D 
 graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 </br>
 
 
 ## Currently Learning :memo: ... 
-<h3> Currently learning Android phone development, as well as Kotlin.<h3>
+<h3>Android mobile development.<h3>
+<h3>Kotlin programming language.</h3>
 
 ## How to reach me :mailbox_with_no_mail: ... 
 <h3> Emails: </h3>
 <h3>  <a href="mailto:jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h3>
 <h3><a href="mailto:jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h3> 
-
-# Languages I'm currently learning 
- <br>
-
-  ![ScreenshotOfKotlinLogo](KotlinIcon.png)
-
-</br>
-
 
 # Languages I'm proficient in 
 
