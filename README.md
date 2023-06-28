@@ -9,7 +9,7 @@
 
 <h3> What i'm Interested In :computer: ...</h3> 
 
-<p>Operating systems,Computer hardware, game engine development, how compilers work, 3D 
+<p> Operating systems, computer hardware, game engine development, how compilers work, 3D 
 graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 
 <h3> Currently Learning :memo: ... </h3> 
