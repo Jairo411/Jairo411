@@ -1,5 +1,4 @@
 # Hi I am Jairo Alberto Morelli Santamaria (Generalist Programmer / Android Developer)
-</br> 
 <h2>Software Development Projects</h2>
 <ul>
  <li>place holder(easy)</li>
