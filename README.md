@@ -21,7 +21,7 @@ graphics APIs(OpenGL, Vulkan) and finally phone development.</p>
 <h3>  <a href="mailto:jalbmorelli@hotmail.com"> jalbmorelli@hotmail.com </a> (personal). </h3>
 <h3><a href="mailto:jairoalbertomorelli@gmail.com"\>jairoalbertomorelli@gmail.com</a> (work). </h3> 
 <h2> Socials </h2> 
-![Instagram Icon](Instagram%20Icon.png)
+![Instagram Icon](main/Instagram%20Icon.png)
 
 
 
