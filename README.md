@@ -1,10 +1,10 @@
 # Hi I am Jairo Alberto Morelli Santamaria (Generalist Programmer / Android Developer)
 <h2>Software Development Projects</h2>
 <ul>
- <li>place holder(easy)</li>
- <li>place holder(easy)</li>
- <li>place holder(medium)</li>
- <li>place holder(actually a really impressive small project)</li>
+ <li>place holder(easy) due</li>
+ <li>place holder(easy) due</li>
+ <li><a href ="https://github.com/Jairo411/GameJam2022"> GameJam 2022</li>
+ <li><a href ="https://github.com/Jairo411/DogEngine"> Dog Game Engine</a></li>
 </ul>
 
 <h3> What i'm Interested In :computer: ...</h3> 
