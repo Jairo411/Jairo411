@@ -10,9 +10,6 @@ My interest as a developer range largely, from low level concepts like understan
 tech products, the build tools we use like C-Make for C++ Developers or Maven and gradle for Java Developers. The languages we use, my favourite being Java, C++ and Kotlin in that order. To more theorical and abstract things, like what design pattern should I implement in a certain case? As well as what type of logic?(usually some sort of mathematics) Can I use to get this working without hard coding it? 
 
 
-
-Over here I am currently testing my knowledge on git. Learning the difference between fetch, merge , etc, etc. 
-
 ### My Journey So Far
 
 My journey as a developer has been a interesting one so far, and I'm really exicted to continue to see what happens next! 
