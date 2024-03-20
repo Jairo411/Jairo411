@@ -2,29 +2,27 @@
 
 ### About me 
 
-I'm a 2022 graduate from Humber College's game programming advance diploma program. In my studies I learned many aspects of video game development / design. I enjoyed 
-many aspects of my studies, I was most interested in the physics and graphics class I took while I was there. I believe these classes 
-really enhanced my ability as a critcal thinker and problem solver, which I believe is the most important trait/aspect of a software developer. 
+I'm a 2022 graduate from Humber College's Game Programming Advance Diploma Program. In my studies, I learned many aspects of video game development / design. I enjoyed 
+many aspects of my studies, I was most interested in the physics and 3D computer graphics class I took while I was there. I believe these classes 
+really enhanced my ability as a critcal thinker and problem solver, which I believe are the most important traits/aspects of being a software developer. 
 
-My interest as a developer range largely, from low level concepts like understanding how compilers work, to having Interest in the tools we use to build the world's 
-tech products, like C-Make for C++ Developers or Maven and Gradle for Java Developers, The programming languages we use, my favourite being Java, C++ and Kotlin in that order.
+My interest as a developer range from understanding how compilers work, to the tools we use to build the world's 
+tech products like C-Make for C++ developers or Maven and Gradle for Java developers and the programming languages we use to build software. My favourite languages are Java, C++ and Kotlin in that order.  
 
 
 ### My Journey So Far
 
-My journey as a developer has been a interesting one so far, and I'm really exicted to continue to see what happens next! 
-To give a short recap of my story, during my school days I tried to build my own 2D game engine as I felt that my skills were falling behind in 
-relation to work I was doing in school, I still haven't managed to complete this game engine to this day, but the work I have put into my game engine gave me 
-a tremendous amount of knowledge on how software applications are made at pretty low levels, as well as specific technical things, like 3D graphics APIs,
-coding for a specific platform, in my case trying to actually have my game engine run on the windows platform, etc. 
+My journey as a developer has been an interesting one so far, and I'm really exicted to continue seeing what will happen next! 
+To give a short recap of my story, during my school days, I tried to build my own 2D game engine as I felt that my skills were falling behind in 
+relation to work I was doing in school. To this day, I am committed to finishing this project. If you're interested I have a repository of my game engine which you can check out. I want to highlight that this has been a continous learning process for me; Through my efforts, I've gained foundational knowledge on how software applications are made, including 3D graphics APIs, coding for a specific platforms, using best coding practices to prevent unnecessary future technical debt.  
 
-I'm fascinated in software development as a whole, and would consider the area I'm interested in the most is just getting things created and working.
+I'm fascinated with software development as a whole. I just like getting things up and working. 
 
-As of right now, I've decided to switch my focus on working on my game engine, to learning how to be a fullstack developer through the Odin Projects free online course curiculum, 
-with my main focus learning javascript, css and html. 
+As of right now, I am certain that I can be part of a team in a capacity as a front-end developer. I gained these skills through my continous self-directed and structured learning process. My future career goal is to become a fullstack developer. 
 
-I am currently looking to work as a backend developer in javascript, with aspirations to become a fullstack developer in the near future. If I sound like the right fit for you team, my contact information 
-is below. 
+I am currently looking for an opportunity to contribute as a front-end developer mainly using, Javascript, NodeJs and React Native.
+
+My contact information is down below:
 
 ## Contact Information And Socials 
 - [Gmail](mailto:jairoalbertomorelli@gmail.com)
