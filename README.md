@@ -7,7 +7,7 @@ many aspects of my studies, but I was most interested in the multiple physics an
 really enhanced my ability as a critcal thinker and problem solver, which I believe are the most important traits/aspects of being a software developer. 
 
 Areas of interest and or things worked on, 
-3D graphics APIs (OpenGL), seralizations APIs(tinyXML), Win32 API, Java, C\C++, Javascript(ECMAscript), SDL2, Webpack, etc. 
+3D graphics APIs (OpenGL), serialization APIs(tinyXML), Win32 API, Java, C\C++, Javascript(ECMAscript), SDL2, Webpack, etc. 
 
 As you can see I have various areas of interest and focus. I believe that diversifying my knowledge as a software developer will give me compound gains, 
 in the future. Even though I remain completely dedicated to working with Web technologies, I will still be slightly invested in other areas of software developement 
